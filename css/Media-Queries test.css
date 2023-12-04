@@ -1,0 +1,10 @@
+@media only screen and (max-width: 750px) {
+    ul>li{
+        display:none ;
+    }
+    .drp{
+        display: inline;
+    }
+
+
+}

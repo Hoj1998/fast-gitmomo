@@ -1,6 +1,7 @@
 bar omar lanat
 
-bar ayeshe lanat 
+bar ayeshe lanat besyar
 bra osman lang lanat 
 bar obaobakr lanat
-bish bad
+bistar bad
+bar har setashon lanat

@@ -3,6 +3,6 @@ bar omar lanat
 bar ayeshe lanat besyar
 bra osman lang lanat 
 bar obaobakr lanat
-bistar bad
+bishtar bad
 bar har setashon lanat
 bar mester lanat
